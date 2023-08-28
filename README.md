@@ -1,1 +1,5 @@
 # OCD-Ontology
+The OCD Ontology serves as a comprehensive knowledge framework that primarily centers around fundamental aspects of mental disorders, such as thoughts, emotions, and behaviors. Developed with a focus on Obsessive-Compulsive Disorder (OCD), this ontology seeks to capture the essential elements that underlie various mental health conditions. By offering a structured representation of these core components, the OCD Ontology aims to provide a foundational resource for understanding the intricate nature of mental disorders and their manifestations. Rooted in the need to create a systematic understanding of mental health conditions, the OCD Ontology goes beyond a mere clinical perspective. It delves into the essential components that constitute mental disorders, acknowledging the profound impact of thoughts, emotions, and behaviors on an individual's well-being. This ontology is designed to encompass the wide spectrum of human experiences and expressions that contribute to mental health conditions, facilitating a comprehensive view of these complex phenomena.
+
+
+
